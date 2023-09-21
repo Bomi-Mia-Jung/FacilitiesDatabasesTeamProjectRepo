@@ -1,5 +1,5 @@
 
-# FacilitiesDatabasesTeamProjectRepo
+# Facilities Databases Team Project Repo
 Facilities Databases Team Project Repo, containing our Design Document, code, and more!
 
 ## Project Pitch and ER Model
