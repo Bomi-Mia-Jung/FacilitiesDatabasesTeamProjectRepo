@@ -5,6 +5,7 @@ Facilities Databases Team Project Repo, containing our Design Document, code, an
 ## Project Pitch and ER Model
 
 Click here to view our [project pitch slides and ER Model](https://docs.google.com/presentation/d/1uM_XFWHimjOV0EHYIpQDjH7le_znanKHSNq5ak9fCNw/edit?usp=sharing)!
+Click here to view our [Initial Implementation Demo Slides]([https://docs.google.com/presentation/d/1uM_XFWHimjOV0EHYIpQDjH7le_znanKHSNq5ak9fCNw/edit?usp=sharing](https://docs.google.com/presentation/d/1XreUjOO2BN4-sQKvC1YgGshVC-X9np3Vn5hc5A8KC3M/edit?usp=sharing)!
 
 ## Design Document
 ### Project Description:
