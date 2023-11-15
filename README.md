@@ -1,12 +1,8 @@
 
 # Facilities Databases Team Project Repo
-This is a repo documenting our journey of working with our client from the Amherst College Facilities Department, to help them rethink the structure of the data tables, 
-create a backend database for them, as well as an interactive and user-friendly frontend dashboard that can be used to interact with the database and view useful visualizations 
-that help with their financial planning.
+Explore our GitHub repository chronicling our collaboration with the Amherst College Facilities Department. Our mission involved a comprehensive overhaul of their data table structure, the establishment of a robust backend database, and the development of an intuitive frontend dashboard. This dashboard facilitates seamless interaction with the database and provides insightful visualizations crucial for optimizing financial planning.
 
-Check out our Design Document, Relational Schema, ER Model, front-end dashboard, and more!
-
-The database was created with PostgreSQL set up on a Linux Server. Connected to Tableau to create an interactive data visualization dashboard.
+Discover key project components such as the Design Document, Relational Schema, ER Model, and the interactive frontend dashboard. Our PostgreSQL database is hosted on a Linux Server, seamlessly integrated with Tableau to perform queries to the database and craft a dynamic and engaging data visualization dashboard. Dive into our journey and the impactful solutions we've crafted for our client!
 
 ## Project Pitch and ER Model
 
