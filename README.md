@@ -36,4 +36,4 @@ Click here to view our [project pitch slides and ER Model](https://docs.google.c
 - Need to figure out how to store images in the RDBMS efficiently
     
 ### ER diagram
-(insert our ER diagram here).
+![Final_ER_Diagram](https://github.com/Bomi-Mia-Jung/Facilities_Databases_Team_Project_Repo/assets/77511489/db78e24a-a8bc-40d1-b16b-33089a72576c)
