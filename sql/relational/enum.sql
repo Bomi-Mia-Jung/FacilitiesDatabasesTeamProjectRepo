@@ -6,7 +6,7 @@ create type failureConsequence as enum ('Nuisance', 'Program Interruption', 'Par
 create type class as enum ('Building', 'Court', 'Field', 'Road', 'Utility');
 create type purpose as enum ('Academic', 'Administrative', 'Athletic', 'Campus', 'Faculty Housing', 'Residence Hall', 'Student Life');
 
--- delete ENUM
+-- how to delete an ENUM
 drop type failureConsequence;
 
 --get ENUM values
