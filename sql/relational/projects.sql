@@ -28,12 +28,12 @@ l2code VARCHAR,
 l3code VARCHAR,
 component VARCHAR,
 condition_notes	VARCHAR,
-rul	NUMERIC,
+remaining_useful_life NUMERIC,
 unit VARCHAR,
 unitcost NUMERIC,
 install_renovate_year INTEGER,
 condition condition, --enum
-failure_consequence	failureConsequence, --enum
+failure_consequence failureConsequence, --enum
 imageurl VARCHAR);
 
 
