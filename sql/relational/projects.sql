@@ -19,7 +19,7 @@ consult_estimate_high NUMERIC,
 calculated_cost	NUMERIC,
 quantity NUMERIC CHECK(quantity <= total_quantity),
 total_quantity NUMERIC,
-completed_date INTEGER,
+completed_year INTEGER,
 actual_cost	NUMERIC,
 actual_cost_notes VARCHAR,
 image_url VARCHAR,
@@ -34,7 +34,7 @@ unitcost NUMERIC,
 install_renovate_year INTEGER,
 condition condition, --enum
 failure_consequence failureConsequence, --enum
-imageurl VARCHAR);
+);
 
 
 

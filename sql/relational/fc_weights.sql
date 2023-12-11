@@ -10,5 +10,5 @@ VALUES ('Nuisance', 1),
 ('Partial Building Shutdown', 4),
 ('Full Building Shutdown', 6),
 ('Multi-Building Shutdown', 8),
- ('Campus Shutdown', 9),
- ('Fire/Lifesafety', 10)
+('Campus Shutdown', 9),
+('Fire/Lifesafety', 10);
