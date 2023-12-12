@@ -10,7 +10,7 @@ Click here to view our [project pitch slides and ER Model](https://docs.google.c
 
 Click here to view our [Databases Initial Implementation Demo Slides](https://docs.google.com/presentation/d/1XreUjOO2BN4-sQKvC1YgGshVC-X9np3Vn5hc5A8KC3M/edit?usp=sharing).
 
-Click here to view our [Facilities Databases Final Presentation] (https://docs.google.com/presentation/d/1xGqApQV4roMEiT7FdtBrJUmot1QlNXUo3Blfq9OOeKE/edit#slide=id.g2a55b3384d6_0_191)!
+Click here to view our [final presentation](https://docs.google.com/presentation/d/1xGqApQV4roMEiT7FdtBrJUmot1QlNXUo3Blfq9OOeKE/edit#slide=id.g2a55b3384d6_0_191))
 
 ## Design Document
 ### Project Description:
