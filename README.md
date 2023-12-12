@@ -7,9 +7,11 @@ Our mission involved a comprehensive overhaul of their data table structure, the
 Discover key project components such as the Design Document, Relational Schema, ER Model, and the interactive frontend dashboard. Our PostgreSQL database is hosted on a Linux Server, integrated with Tableau to perform queries to the database and craft a dynamic and engaging data visualization dashboard. Dive into our journey and the impactful solutions we've crafted for our client!
 
 ## Project Pitch and ER Model
-Click here to view our [Project Pitch Slides](https://docs.google.com/presentation/d/1uM_XFWHimjOV0EHYIpQDjH7le_znanKHSNq5ak9fCNw/edit?usp=sharing).
-Click here to view our [Facilities Database Initial Implementation Demo Slides](https://docs.google.com/presentation/d/1XreUjOO2BN4-sQKvC1YgGshVC-X9np3Vn5hc5A8KC3M/edit?usp=sharing).
-Click here to view our [Facilities Databases Final Presentation](https://docs.google.com/presentation/d/1xGqApQV4roMEiT7FdtBrJUmot1QlNXUo3Blfq9OOeKE/edit?usp=sharing).
+[Project Pitch Slides](https://docs.google.com/presentation/d/1uM_XFWHimjOV0EHYIpQDjH7le_znanKHSNq5ak9fCNw/edit?usp=sharing).
+
+[Facilities Database Initial Implementation Demo Slides](https://docs.google.com/presentation/d/1XreUjOO2BN4-sQKvC1YgGshVC-X9np3Vn5hc5A8KC3M/edit?usp=sharing).
+
+[Facilities Databases Final Presentation](https://docs.google.com/presentation/d/1xGqApQV4roMEiT7FdtBrJUmot1QlNXUo3Blfq9OOeKE/edit?usp=sharing).
 
 ## Design Document
 
