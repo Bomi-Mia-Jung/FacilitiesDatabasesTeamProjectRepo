@@ -90,3 +90,5 @@ FOREIGN KEY (related_projects) REFERENCES projects(pid);
 --manually add domain constraint
 ALTER TABLE projects
 ADD CONSTRAINT constraint_quantity CHECK (quantity <= total_quantity);
+ALTER TABLE projects
+ADD CONSTRAINT constraint_cost CHECK (consult_estimate_low <= consult_estimate_high);
