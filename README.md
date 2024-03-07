@@ -24,7 +24,7 @@ Discover key project components such as the Design Document, Relational Schema, 
 - Multi Prioritization scheme: User can provide information on their priorities from a list of options, and then the database will calculate an overall priority score for each building.
 - Since the client employs a multi-prioritization scheme to keep track of the expenditures on the facility projects, we want to provide a comprehensive view of various metrics in order to inform their investment decisions.
 - We also want to support the client with long-term financial plans. Our deliverables will show how the project costs and replacement values change over time in order to inform the optimal timing and amount of the investment.
-- Click here to view our [Facilities Database Live Tableau Dashboard]([https://public.tableau.com/app/profile/angelica.kim1227/viz/FacilityDatabase/Story1?publish=yes](https://public.tableau.com/app/profile/angelica.kim1227/viz/Facilities_DB/Story1?publish=yes))!
+- Click here to view our [Facilities Database Live Tableau Dashboard](https://public.tableau.com/app/profile/angelica.kim1227/viz/Facilities_DB/Story1?publish=yes)!
 
 ### Current State of Data
 - The original data was stored in Google Tables, and the client is using Google Studios to calculate specific metrics because Google Tables does not support calculated fields.
